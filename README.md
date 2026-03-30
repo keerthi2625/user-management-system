@@ -22,3 +22,7 @@ This project demonstrates a simple user management system where users can be add
 2. Install dependencies using `npm install`  
 3. Start backend using `node server.js`  
 4. Start frontend using `npm start`
+
+## Project Structure
+- backend/server.js
+- frontend/App.js
