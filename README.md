@@ -26,3 +26,6 @@ This project demonstrates a simple user management system where users can be add
 ## Project Structure
 - backend/server.js
 - frontend/App.js
+
+## Live Demo
+Coming soon
